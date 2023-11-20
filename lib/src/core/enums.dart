@@ -4,10 +4,10 @@ enum InquiryEnvironment {
   sandbox,
 
   /// The production environment.
-  production
+  production,
 
   /// The production - staging environment.
-  env_YWAFSMCNEoGUB2MYXCh5SAz8
+  env_YWAFSMCNEoGUB2MYXCh5SAz8,
 }
 
 /// Source for theme value
